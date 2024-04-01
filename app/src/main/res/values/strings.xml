@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="title_form_contact">Novo Contato</string>
+    <string name="name">Nome</string>
+    <string name="email">Email</string>
+    <string name="phone">Telefone</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="fields_message">Preencha todos os dados corretamente</string>
+    <string name="delete">Excluir</string>
+    <string name="update">Editar</string>
+    <string name="options_message">O que você deseja fazer com o contato?</string>
+</resources>
